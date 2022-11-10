@@ -1,16 +1,35 @@
 ### Hi there 👋
 
-<!--
-**ahmadfah/ahmadfah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have been validating for about 3 years and all this time my nodes worked flawlessly and were constantly active, I was also always in the top 100 active validators of various projects.
 
-Here are some ideas to get you started:
+ I’m working on my own crypto project, but I need a lot of time.
+ 
+  I’m interested in crypto currencies and metaverse.
+  
+   I'm node runner and validator, crypto enthuasist, contributor, content creator.
+   
+   Languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Ukrainian (native)
+* Russian
+* English A1
+* German
+
+Skills:
+* Copywriting
+* Design by Photoshop
+* Streams on Twitch
+
+ I made content for some projects: CELESTIA, SEI, Aptos, Archway
+ 
+ My projects where I keep nodes:
+ * https://aptoslabs.com/
+ * https://www.seinetwork.io/
+ * https://deweb.services/
+ * https://cosmic-horizon.com/
+ * https://celestia.org/
+ * https://agoric.com/
+ * https://www.rebuschain.com/
+ * https://assetmantle.one/
+ * https://archway.io/
+ * https://forta.org/
